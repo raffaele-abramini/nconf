@@ -2,9 +2,10 @@
   "name": "@oldirony/nconf",
   "description": "Hierarchical node.js configuration with files, environment variables, command-line arguments, and atomic object merging.",
   "version": "1.0.0-beta.1",
-  "author": "Charlie Robbins <charlie.robbins@gmail.com>",
+  "author": "Raffaele Abramini <raffaele.abramini@gmail.com>",
+  "access": "public",
   "contributors": [
-    "Raffaele Abramini <raffaele.abramini@gmail.com>",
+    "Charlie Robbins <charlie.robbins@gmail.com>",
     "Matt Hamann <matthew.hamann@gmail.com>",
     "Maciej Małecki <me@mmalecki.com>",
     "Jarrett Cruger <jcrugzz@gmail.com>",
